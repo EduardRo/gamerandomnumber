@@ -9,7 +9,9 @@
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
-  "homepage": "https://github.com/EduardRo/gamerandomnumber.git",
+  {
+  "homepage": "https://github.com/EduardRo/gamerandomnumber.git"
+  },
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
